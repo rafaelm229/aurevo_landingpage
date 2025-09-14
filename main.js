@@ -64,7 +64,7 @@ let currentLang = 'en';
         });
 
         // Add parallax effect to hero background
-        /*
+       
         window.addEventListener('scroll', () => {
             const scrolled = window.pageYOffset;
             const hero = document.querySelector('.hero');
@@ -72,7 +72,7 @@ let currentLang = 'en';
             hero.style.transform = `translateY(${parallax}px)`;
         });
 
-        */ 
+       
 
         // Add typing effect to hero title (optional enhancement)
         function typeWriter(element, text, speed = 100) {

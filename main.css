@@ -155,7 +155,7 @@
 
         .hero-subtitle {
             font-size: clamp(16px, 2.5vw, 20px);
-            color: var(--slate);
+            color: var(--cloud-white);
             margin-bottom: 40px;
             max-width: 600px;
         }
